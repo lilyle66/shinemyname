@@ -1,3 +1,2 @@
 # shinemyname
-test
 running
